@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rotation-builder-service
+spec:
+  selector:
+    matchLabels:
+      app: rotation-builder-service
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: rotation-builder-service
+    spec:
+      imagePullSecrets:
+        - name: do-registry
+      containers:
+      - name: rotation-builder-service
+        image: registry.digitalocean.com/mogpost/rotation-builder-service
+        ports:
+        - containerPort: 5000

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Wy5XTB9EmQ23xtvLikHkkWXV8+zEBJHrMgNElY7+H2faJIjeyKX2fBD4ueEq38V8NV+rNOSXK4cJY9dMAfkDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nick\\Projects\\MogPost\\services\\abilities-service\\MogPost.Abilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nick\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nick\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nick\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\nick\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\nick\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\nick\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{C627D2E5-6CDE-4494-A4D9-A938B63D2118}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{64D24FF6-526F-446C-933E-510881519E38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{2EFD9F05-55B7-49DB-9437-260D12896C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MogPost.ExternalClients", "lib\clients\MogPost.ExternalClients.csproj", "{58B42CFC-07DF-4547-B951-A69672BC5325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MogPost.Abilities", "services\abilities-service\MogPost.Abilities.csproj", "{335B116F-7158-4D20-A8B4-2C5ACF089F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MogPost.RotationBuilder", "services\rotation-builder-service\MogPost.RotationBuilder.csproj", "{55D4E3F1-79A6-4D49-BC47-72C71B5C5770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{58B42CFC-07DF-4547-B951-A69672BC5325} = {2EFD9F05-55B7-49DB-9437-260D12896C37}
+		{335B116F-7158-4D20-A8B4-2C5ACF089F27} = {64D24FF6-526F-446C-933E-510881519E38}
+		{55D4E3F1-79A6-4D49-BC47-72C71B5C5770} = {64D24FF6-526F-446C-933E-510881519E38}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B42CFC-07DF-4547-B951-A69672BC5325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B42CFC-07DF-4547-B951-A69672BC5325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B42CFC-07DF-4547-B951-A69672BC5325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B42CFC-07DF-4547-B951-A69672BC5325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335B116F-7158-4D20-A8B4-2C5ACF089F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335B116F-7158-4D20-A8B4-2C5ACF089F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335B116F-7158-4D20-A8B4-2C5ACF089F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335B116F-7158-4D20-A8B4-2C5ACF089F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D4E3F1-79A6-4D49-BC47-72C71B5C5770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D4E3F1-79A6-4D49-BC47-72C71B5C5770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D4E3F1-79A6-4D49-BC47-72C71B5C5770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D4E3F1-79A6-4D49-BC47-72C71B5C5770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

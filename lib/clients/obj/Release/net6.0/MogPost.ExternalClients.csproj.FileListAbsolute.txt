@@ -1,0 +1,12 @@
+C:\Users\nick\Projects\MogPost\lib\clients\bin\Release\net6.0\MogPost.ExternalClients.deps.json
+C:\Users\nick\Projects\MogPost\lib\clients\bin\Release\net6.0\MogPost.ExternalClients.dll
+C:\Users\nick\Projects\MogPost\lib\clients\bin\Release\net6.0\ref\MogPost.ExternalClients.dll
+C:\Users\nick\Projects\MogPost\lib\clients\bin\Release\net6.0\MogPost.ExternalClients.pdb
+C:\Users\nick\Projects\MogPost\lib\clients\obj\Release\net6.0\MogPost.ExternalClients.csproj.AssemblyReference.cache
+C:\Users\nick\Projects\MogPost\lib\clients\obj\Release\net6.0\MogPost.ExternalClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick\Projects\MogPost\lib\clients\obj\Release\net6.0\MogPost.ExternalClients.AssemblyInfoInputs.cache
+C:\Users\nick\Projects\MogPost\lib\clients\obj\Release\net6.0\MogPost.ExternalClients.AssemblyInfo.cs
+C:\Users\nick\Projects\MogPost\lib\clients\obj\Release\net6.0\MogPost.ExternalClients.csproj.CoreCompileInputs.cache
+C:\Users\nick\Projects\MogPost\lib\clients\obj\Release\net6.0\MogPost.ExternalClients.dll
+C:\Users\nick\Projects\MogPost\lib\clients\obj\Release\net6.0\ref\MogPost.ExternalClients.dll
+C:\Users\nick\Projects\MogPost\lib\clients\obj\Release\net6.0\MogPost.ExternalClients.pdb

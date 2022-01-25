@@ -1,0 +1,11 @@
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\MogPost.RotationBuilder.exe
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\appsettings.Development.json
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\appsettings.json
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\MogPost.RotationBuilder.dll
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\MogPost.RotationBuilder.deps.json
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\MogPost.RotationBuilder.runtimeconfig.json
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\MogPost.RotationBuilder.pdb
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\Microsoft.OpenApi.dll
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nick\Projects\MogPost\out\rotation-builder-service\Swashbuckle.AspNetCore.SwaggerUI.dll

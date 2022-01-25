@@ -1,0 +1,13 @@
+C:\Users\nick\Projects\MogPost\out\MogPost.Abilities.exe
+C:\Users\nick\Projects\MogPost\out\appsettings.Development.json
+C:\Users\nick\Projects\MogPost\out\appsettings.json
+C:\Users\nick\Projects\MogPost\out\MogPost.Abilities.dll
+C:\Users\nick\Projects\MogPost\out\MogPost.Abilities.deps.json
+C:\Users\nick\Projects\MogPost\out\MogPost.Abilities.runtimeconfig.json
+C:\Users\nick\Projects\MogPost\out\MogPost.Abilities.pdb
+C:\Users\nick\Projects\MogPost\out\Microsoft.OpenApi.dll
+C:\Users\nick\Projects\MogPost\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nick\Projects\MogPost\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nick\Projects\MogPost\out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nick\Projects\MogPost\out\MogPost.ExternalClients.dll
+C:\Users\nick\Projects\MogPost\out\MogPost.ExternalClients.pdb
